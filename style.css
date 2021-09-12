@@ -1,16 +1,17 @@
 h1 {
   text-align: center;
     letter-spacing: 4px;
-  color:#c46d7e;
-  text-shadow: 2px 2px grey;
+  color:#a7b3d6;
+  text-shadow: 2px 2px #adadad;
+  font-size: 34px;
 }
 p {
-  font-size: 18px;
+  font-size: 24px;
   color:#888888;
   text-align: center;
   letter-spacing: 2px;
   font-family: monospace
 }
 body {
-  background-color: #e6e6e6;
+  background-color: #d6d2d2;
 }
